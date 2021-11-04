@@ -1,0 +1,12 @@
+{
+  "name": "type-gymnastics",
+  "version": "1.0.0",
+  "description": "type operation",
+  "main": "index.js",
+  "repository": "https://github.com/qianxi0410/type-gymnastics",
+  "author": "qianxi0410 <894871277@qq.com>",
+  "license": "The Un-License",
+  "devDependencies": {
+    "typescript": "^4.4.4"
+  }
+}
