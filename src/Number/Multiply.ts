@@ -1,7 +1,7 @@
 import { Equal } from '../util/Equal';
 import { Expect } from '../util/Expect';
 
-type Multiply<
+export type Multiply<
   N extends number,
   P extends number,
   A extends unknown[] = [],
